@@ -18,9 +18,10 @@ Two Resistors
 
 Then I connected the circuit as shown in the picture.
 
-![Circuit for sensor distance ](https://user-images.githubusercontent.com/85841913/124749066-763a0100-df2c-11eb-9b4c-3d605ab7e9cf.PNG)
+![Circuit for sensor distance1 ](https://user-images.githubusercontent.com/85841913/124805488-41e23700-df64-11eb-90ff-1842c715f8bb.PNG)
 
-Then I wrote code for turn on the led and servo motor if the sensor find something near from him 100 cm or less .
+
+Then I wrote code for turn on the green led and servo motors if the sensor find something near from him 100 cm or less .
+and if something far more than 100 cm in this case the red led will be turn on and the motors will be back to sleep mode .
 
 # Here is a link to a file for this task that you can run
-https://www.tinkercad.com/things/kSswkmYdsdr
