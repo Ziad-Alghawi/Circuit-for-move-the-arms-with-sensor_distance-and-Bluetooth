@@ -24,4 +24,7 @@ Then I connected the circuit as shown in the picture.
 Then I wrote code for turn on the green led and servo motors if the sensor find something near from him 100 cm or less .
 and if something far more than 100 cm in this case the red led will be turn on and the motors will be back to sleep mode .
 
-# Here is a link to a file for this task that you can run
+Additionally, Bluooth will send signal to the ipad device for open the Welcome screen .
+
+# Here is a link to a file for this task that you can run it 
+https://www.tinkercad.com/things/kSswkmYdsdr 
