@@ -4,17 +4,17 @@ First, I used the Tinkercad website.
 
 Second, I used the required elements, which are as follows:
 
-The Breadboard small
+Two The Breadboard small
 
-Arduino UNO R3
+Two Arduino UNO R3
 
-One Micro servo Motor
+Six Micro servo Motors
 
 Ultrasonic Distance sensor
 
-LED
+Tow LEDs
 
-Resistor 
+Two Resistors 
 
 Then I connected the circuit as shown in the picture.
 
